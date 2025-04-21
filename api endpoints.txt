@@ -1,0 +1,86 @@
+Account Creation & Login
+
+
+Endpoints needed: Registration endpoint, login endpoint, authentication (e.g., token-based login or OAuth).
+
+
+Playlist Management
+
+
+Endpoints needed:
+
+
+Create Playlist: An endpoint to create a new playlist.
+
+
+Edit Playlist: An endpoint to add/remove songs or change the name/description of a playlist.
+
+
+Delete Playlist: To remove playlists.
+
+
+Get Playlist Info: To retrieve information about the user’s playlists.
+
+
+Song Management
+
+
+Endpoints needed:
+
+
+Search Songs: An endpoint to search for songs (by name, artist, album).
+
+
+Save Songs to Playlist: Add songs to a specific playlist.
+
+
+Play Song: Endpoint to start playing a song.
+
+
+Pause/Resume/Stop: Endpoint to control playback.
+
+
+Skip Track: Move to the next track.
+
+
+Get Song Details: Fetch song information like album, artist, and duration.
+
+
+Track and Playback Control
+
+
+Endpoints needed:
+
+
+Play/Pause/Stop: Control music playback.
+
+
+Seek: Skip to a particular timestamp in the song.
+
+
+Volume Control: If applicable.
+
+
+User Library & History
+
+
+Endpoints needed:
+
+
+Get Saved Songs: Fetch the list of songs that the user has saved.
+
+
+Get Recently Played: Track the songs recently played.
+
+
+Social Features (Optional)
+
+
+Endpoints needed:
+
+
+Follow Artists: Follow/unfollow artists.
+
+
+Share Song/Playlist: Share songs/playlists with friends.
+
